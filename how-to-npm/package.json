@@ -1,0 +1,23 @@
+{
+  "name": "@codyg/how-to-npm",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Cody Gilliam",
+  "license": "MIT",
+  "description": "A few words in it",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyg7/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codyg7/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/codyg7/how-to-npm#readme"
+}
